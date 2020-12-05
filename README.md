@@ -19,4 +19,7 @@ foobar.pluralize('word') #returns 'Words'`
 # License 
 *MIT*
 
+# Link to repo
+<https://github.com/KareemS257/Project1>
+
 ![index](https://user-images.githubusercontent.com/75436004/101240464-1cecc380-36f8-11eb-8969-e756cba18bd8.png)
